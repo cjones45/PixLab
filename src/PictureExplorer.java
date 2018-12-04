@@ -703,7 +703,7 @@ public class PictureExplorer implements MouseMotionListener, ActionListener, Mou
 	 * Controls the zoom menu bar
 	 *
 	 * @param a
-	 *            the ActionEvent
+	 *            the ActionEvent 
 	 */
 	public void actionPerformed(ActionEvent a) {
 
@@ -794,9 +794,9 @@ public class PictureExplorer implements MouseMotionListener, ActionListener, Mou
 
 	/**
 	 * Test Main. It will explore the beach
-	 */
+	 */ 
 	public static void main(String args[]) {
-		Picture pix = new Picture("beach.jpg");
+		Picture pix = new Picture("blue-mark.jpg");
 		pix.explore();
 	}
 
