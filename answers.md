@@ -1,7 +1,8 @@
-1. no
-2. yes
-3. no
-4. yes it should
-5. no because the pic is too complex
-6. yes
-7. no it needs to go the other way first
+Left Arm: 
+bottom 193, 169
+top right 160, 104
+top 160, 104
+
+Seagull: 
+Bottom  320, 337
+Top 232, 236
